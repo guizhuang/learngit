@@ -1,1 +1,4 @@
 vulcan
+bat
+baidu
+tengxun
