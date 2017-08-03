@@ -8,3 +8,4 @@ merge no-ff
 merge
 issue-101
 week
+sunday
